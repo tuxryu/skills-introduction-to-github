@@ -19,6 +19,16 @@ In this exercise, you will:
 3. Open a pull request
 4. Merge your pull request
 
+## Instrucciones (español)
+
+Para completar este ejercicio, haz estos pasos en orden:
+
+1. Crea una rama llamada `my-first-branch`.
+2. Crea el archivo `PROFILE.md` en la raíz del repositorio con el texto `Welcome to my GitHub profile!`.
+3. Haz commit con el mensaje `Add PROFILE.md`.
+4. Abre un pull request con título `Add my first file` y agrega una descripción breve.
+5. Haz merge del pull request y elimina la rama.
+
 ### How to start this exercise
 
 Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
